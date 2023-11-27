@@ -1,6 +1,6 @@
 # Tasty Creation Mobile App
 
-Cook up something special with our easy-to-use Flutter recipe app, find delicious dishes and simple instructions for a tasty experience!
+Cook up something special with this easy-to-use Flutter recipe app, find delicious dishes and simple instructions for a tasty experience!
 
 ## Getting Started
 
