@@ -1,6 +1,6 @@
-# tasty_creations
+# Tasty Creation Mobile App
 
-A new Flutter project.
+Cook up something special with our easy-to-use Flutter recipe app, find delicious dishes and simple instructions for a tasty experience!
 
 ## Getting Started
 
