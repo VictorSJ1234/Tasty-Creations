@@ -1,16 +1,9 @@
 # Tasty Creation Mobile App
 
 Cook up something special with this easy-to-use Flutter recipe app, find delicious dishes and simple instructions for a tasty experience!
+![tasty](https://github.com/user-attachments/assets/ae16209c-8a5f-4438-956d-5ad2d4445f01)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter, DART, JavaScript
